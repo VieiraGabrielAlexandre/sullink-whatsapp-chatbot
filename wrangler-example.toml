@@ -1,0 +1,10 @@
+name = "wa-bot"
+main = "src/worker.js"
+compatibility_date = "2025-10-22"
+
+[[kv_namespaces]]
+binding = "name"
+id = "ID"
+
+[vars]
+URL_SEGUNDA_VIA = "https://suaempresa.com/segunda-via"
