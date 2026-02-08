@@ -1,0 +1,10 @@
+name = "wa-bot"
+main = "src/worker.js"
+compatibility_date = "2025-10-22"
+
+[[kv_namespaces]]
+binding = "SULLINK"
+id = "381985a6aa134bcf9b78241860f5b096"
+
+[vars]
+URL_SEGUNDA_VIA = "https://suaempresa.com/segunda-via"
