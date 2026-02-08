@@ -1,2 +1,6 @@
 wrangler.toml
 .idea
+.env
+.env.*
+node_modules/
+package-lock.json
